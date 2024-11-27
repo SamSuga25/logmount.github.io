@@ -1,1 +1,1 @@
-# logmount.github.io
+Testing Github Pages on Wordpress project Bromo-Log 
